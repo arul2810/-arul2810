@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_home_white_24dp"
+            android:title="Home"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
+        <item
+            android:id="@+id/nav_n"
+            android:icon="@drawable/ic_bug_report_white_24dp"
+            android:title="Life With Technology"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_explore_white_24dp"
+            android:title="Travel Diaries"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_developer_mode_white_24dp"
+            android:title="Life Experiments"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_store_white_24dp"
+            android:title="Detroit Food Safari"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
+        <item
+            android:id="@+id/nav_m"
+            android:icon="@drawable/ic_supervisor_account_white_24dp"
+            android:title="Random Ideas"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"/>
+
+    </group>
+
+
+</menu>
